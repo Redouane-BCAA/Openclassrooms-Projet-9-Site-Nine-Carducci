@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Spectral:ital,wght@0,400;0,800;1,300;1,400&display=swap');
 body {
 	max-width: 1920px;
 	margin: auto;
@@ -104,7 +105,7 @@ body {
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #fff;
-	background-color: #BEB45A;
+	background-color: #1B606F !important; 
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
